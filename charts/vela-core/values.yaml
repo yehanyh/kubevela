@@ -44,7 +44,7 @@ workflow:
 ## @section KubeVela controller parameters
 
 ## @param replicaCount KubeVela controller replica count
-replicaCount: 1
+replicaCount: 2
 
 ## @param imageRegistry Image registry
 imageRegistry: ""
